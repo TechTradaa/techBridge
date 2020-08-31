@@ -1,0 +1,15 @@
+.user-details{
+  display: flex;
+  justify-content: space-between;
+};
+
+.history-card{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.user-profile{
+  display: flex;
+  justify-content: space-between;
+}
